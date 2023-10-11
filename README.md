@@ -4,6 +4,7 @@ Setting up a virtual machine (VM) in Microsoft Azure involves several steps, fro
 1. Sign In to the Azure Portal:  '🚀
 
 Go to the Azure portal (https://portal.azure.com) and sign in with your Azure account.
+'📓Note: Sign up for the free 30 day period which includes a '💵$200 credit. A credit/debit card is needed to set up azure account. 
 
 2. Create a New Virtual Machine: '🚀
 
