@@ -10,6 +10,13 @@ Go to the Azure portal (https://portal.azure.com) and sign in with your Azure ac
 
  Click on "Create a resource" and select "Compute" > "Virtual machine."
 
+ ![image](https://github.com/christyguajardo/azure-network-protocols/assets/147533626/0ee63b19-6df7-4ac6-a36a-3a697418cf64)
+
+![image](https://github.com/christyguajardo/azure-network-protocols/assets/147533626/c9b40b26-ae27-4e25-8c58-6de741de25b9)
+</p>
+<br />
+
+
 3. Configure Basics: '🚀
 
 Fill in details for the virtual machine, including:
@@ -26,6 +33,9 @@ Fill in details for the virtual machine, including:
    
   '🪐Size: Select the size for the VM based on your requirements.
   
+![image](https://github.com/christyguajardo/azure-network-protocols/assets/147533626/d319ff54-bfe4-4101-a90f-429bf3e59bfc)
+![image](https://github.com/christyguajardo/azure-network-protocols/assets/147533626/feb7ec24-2105-4226-8401-69adb1f38ba1)
+
  
 4. Configure Administrator Account: '🚀
 
